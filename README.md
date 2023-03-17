@@ -1,2 +1,2 @@
-# SistemaFinOperetion-
-plataforma .Net 6 Api utilizando arquitetura DDD
+# SistemaFinOperetion
+plataforma .Net 7 Api utilizando arquitetura DDD
